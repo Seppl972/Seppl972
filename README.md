@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Seppl972
-- 👀 I’m interested in Sports, Finance & Tech
+- 👀 I’m interested in Triathlon & Tech
 - 👨🏻‍💻 I’m working fulltime as a Business Analyst for an Insurance Company in Germany
-- 🌱 I’m currently learning Java for my part time Master of Science Degree in practical computer science
+- 🌱 I’m currently learning programming for my part time Master of Science Degree in practical computer science
 - 💞️ I’m looking forward to continue my growth in Software or Data Engineering 
 - ⚡ Fun fact: I love croissants.
 
