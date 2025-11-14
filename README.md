@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @Seppl972
-- 👀 I’m interested in Triathlon & Tech
-- 👨🏻‍💻 I’m working fulltime as a Business Analyst for an Insurance Company in Germany
-- 🌱 I’m currently learning programming for my part time Master of Science Degree in practical computer science
-- 💞️ I’m looking forward to continue my growth in Software or Data Engineering 
-- ⚡ Fun fact: I love croissants.
+👋 @Seppl972 | Business Analyst | Master Praktische Informatik (in progress) | Softwareentwickler (in progress) | Triathlon-Fan an
 
 <!---
 Seppl972/Seppl972 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
