@@ -1,4 +1,4 @@
-👋 @Seppl972 | Business Analyst | Master Praktische Informatik (in progress) | Softwareentwickler (in progress) | Triathlon-Fan an
+👋 @Seppl972 | Business Analyst | Master Praktische Informatik (in progress) | Softwareentwickler (in progress) | Triathlon-Fan
 
 <!---
 Seppl972/Seppl972 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
