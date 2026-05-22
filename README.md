@@ -1,4 +1,4 @@
-👋 @Seppl972 | Business Analyst | Master Praktische Informatik (in progress) | Softwareentwickler (in progress) |
+👋 @Seppl972 | Business Analyst | Master Praktische Informatik (3.Semester) | Softwareentwickler (in progress) |
 
 <!---
 Seppl972/Seppl972 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
